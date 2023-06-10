@@ -1,0 +1,371 @@
+.banner{
+    text-align: center;
+    background-image: url('../img/yarumal2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+.text{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+.banner::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+.menu{
+    background-color: #9FE2F8;
+}
+
+/* .bannerDos {
+    background-image: url('../img/banner2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+} */
+
+
+.bello {
+    background-image: url('../img/bello2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+
+.text-bello{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+.bello::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.h2b{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+    padding-top: 10px;
+}
+
+.menu1{
+    background-color: #00A3CB;
+}
+
+.bello2 {
+    background-image: url('../img/cementerio.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+
+} 
+
+.belmira{
+    background-image: url('../img/belmira.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+
+.text-belmira{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+.belmira::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.h2bel{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+    padding-top: 10px;
+}
+
+.belmira2{
+    background-image: url('../img/Belmira1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.caramanta {
+    background-image: url('../img/caramanta.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;  
+}
+
+.text-caramanta{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+
+.caramanta::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.h2ca{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+    padding-top: 10px;
+}
+
+.caramanta1{
+    background-image: url('../img/caramanta2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.caucasia{
+    background-image: url('../img/caucasia.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+
+.text-caucasia{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+.caucasia::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.h2c{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+    padding-top: 10px;
+}
+
+.caucasia1{
+    background-image: url('../img/cascadas.webp');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.santafe{
+    background-image: url('../img/puente santafe.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+
+.text-santafe{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+    
+.santafe::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.h2ant{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+    padding-top: 10px;
+    
+}
+
+.santafe1{
+    background-image: url('../img/santafe.webp');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.yarumal{
+    background-image: url('../img/yarumal2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    z-index: 1;
+}
+.text-yarumal{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #000 ;
+}
+
+.yarumal::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: -1;
+}
+.h2y{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 2px 2px #de0d0d ;
+
+}
+
+.yarumal1{
+    background-image: url('../img/yarumal2.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.bannerDos {
+    background-image: url('../img/bosques.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
